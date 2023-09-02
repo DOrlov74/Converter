@@ -1,7 +1,7 @@
 # Converter
 
 Converter is a simple gstreamer pipeline console application, based on [Gstreamer Basic tutorials](https://gstreamer.freedesktop.org/documentation/tutorials/basic/index.html?gi-language=c).
-The program fetches a media file from the command argument and convert it to new matroska files with video and audio. File for testing the program could be downloaded from [Link] (https://gstreamer.freedesktop.org/data/media/sintel_trailer-480p.webm)
+The program fetches a media file from the command argument and convert it to new matroska files with video and audio. File for testing the program could be downloaded from [Link](https://gstreamer.freedesktop.org/data/media/sintel_trailer-480p.webm)
 
 ## Command example
 
